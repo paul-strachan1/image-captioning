@@ -25,7 +25,7 @@ gen_ai_apps/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/paul-strachan1/image-captioning)>
    cd gen_ai_apps
    ```
 
